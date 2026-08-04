@@ -1,120 +1,206 @@
-# Hi there, I'm Sathya
-
+# 👋 Hi there, I'm Sathya
 ## 👩‍🔬 About Me
 
-A Detail-oriented biotechnology professional with hands-on experience in **plant tissue culture**, **draft plant genome assembly**, and **structural bioinformatics**.
-Strong foundation in **bioinformatics workflows** including **NGS and RNA-seq analysis**, **functional annotation**, **GWAS variant interpretation** and **protein structure modeling**.
-Comfortable working in Linux environments with beginner to intermediate scripting experience in **Python and R**.
+A detail-oriented Biotechnology graduate with professional experience in Plant Tissue Culture and a strong transition into Bioinformatics and Computational Biology. Passionate about applying Genomics, Bioinformatics pipelines, Comptational Biology and Python programming to solve biological problems.
+
+Experienced in developing reproducible bioinformatics workflows for Whole Exome Sequencing (WES), RNA-Seq, Genome Assembly, Variant Analysis, Structural Bioinformatics, and Functional Annotation. Comfortable working in Linux environments with Git/GitHub version control and scientific programming in Python and R.
+
+Currently seeking opportunities as a Junior Bioinformatician, Bioinformatics Analyst / Genomics Analyst, Computational Biologist where I can contribute to genomic data analysis and continue expanding my computational biology expertise.
 
 ---
 
 ## 🎓 Education
 
-* **Advanced Diploma in Bioinformatics**
-  *Bangalore Clingenesis Research Institute* (2025 – 2026)
+- ### Advanced Diploma in Bioinformatics
 
-* **B.Tech in Biotechnology**
-  *PABCET, Affiliated to Anna University* (2018 – 2022)
+  Clingenesis Research Institute, Bangalore (2025–2026)
+
+- ### B.Tech in Biotechnology
+
+  PABCET, Anna University (2018–2022)
 
 ---
 
 ## 💼 Professional Experience
+### Junior Executive – Research & Development
 
-**Jr. Executive – Research & Development**
-*Bangalore Deejay Coconut Farms Pvt. Ltd* (Feb 2023 – Dec 2024)
+  Deejay Coconut Farms Pvt. Ltd. (Feb 2023 – Dec 2024)
 
-* Assisted in developing **plant tissue culture protocols** for coconut, improving multiplication efficiency and survival rate
-* Prepared and standardized **culture media and stock solutions**
-* Performed routine **subculturing and aseptic TC lab operations**
-* Maintained experimental records and analyzed data using **Excel and PowerPoint**
-* Supported reproducible research through proper **documentation and lab record management**
+- Redesigned and Assisted in optimizing coconut tissue culture protocols to improve multiplication efficiency.
+- Prepared and standardized culture media and stock solutions.
+- Performed aseptic culture maintenance and routine subculturing.
+- Maintained laboratory records and experimental documentation.
+- Analyzed experimental results using Microsoft Excel and PowerPoint.
+- Followed Good Laboratory Practices (GLP) and reproducible documentation standards.
 
 ---
 
-## 🧬 Skills
+## 🧬 Technical Skills
 
-### Bioinformatics
-
-* Genomics and transcriptomics concepts
-* NGS and RNA-seq workflows
-* GWAS data curation and variant interpretation
-* Structural bioinformatics
-* Functional genomics and pathway analysis (GO, KEGG)
-* Sequence and phylogenetic analysis
-* Omics data analysis and visualization
-
-### Programming & Tools
-
-* Linux/Unix command line
-* Git & GitHub version control
-* Python and R (Beginner)
-* Bioinformatics tools 
-* Basics of Cloud Computing
-* MS Office (Word, Excel, PowerPoint)
-
-### Laboratory & Professional
-
-* Plant tissue culture and aseptic techniques
-* Good laboratory practices (GLP)
-* Scientific writing and reporting
-* Collaboration, adaptability, and time management
+### Bioinformatics | Computational Biology
+- Whole Exome Sequencing (WES)
+- RNA-Seq Analysis
+- Variant Calling, Annotation and  Interpretation
+- GATK Best Practices
+- Functional Annotation
+- Structural Bioinformatics
+- Genome Assembly
+- Transcriptomics
+- Comparative Genomics
+- GWAS Concepts
+- Gene Ontology (GO)
+- KEGG Pathway Analysis
+- Sequence Analysis
+- Cheminformatics
+- Drug Discovery
+### Programming
+- Python
+- R
+- Bash Scripting
+### Bioinformatics Tools
+- FastQC
+- Fastp
+- BWA
+- SAMtools
+- BCFtools
+- GATK
+- Ensembl VEP
+- FreeBayes
+- HISAT2
+- featureCounts
+- DESeq2
+- SPAdes
+- QUAST
+- Seqtk
+- EMBOSS
+- eggNOG Mapper
+- SWISS-MODEL
+- Galaxy
+### Development Tools
+- Linux / Ubuntu
+- Git
+- GitHub
+- VS Code
+- Conda
+- Docker (Basics)
+### Laboratory Skills
+- Plant Tissue Culture
+- Aseptic Techniques
+- GLP Documentation
+- Scientific Reporting
 
 ---
 
 ## 🔬 Projects
+### 🧬 ADPKD Whole Exome Sequencing Pipeline
 
-### 🧪 Bioinformatics Pipeline for WES Analysis in SARS-CoV-2
+Developed an end-to-end Whole Exome Sequencing analysis pipeline following GATK Best Practices for identifying disease-associated variants in Autosomal Dominant Polycystic Kidney Disease (ADPKD).
 
-* This pipeline covers quality control, read alignment, BAM processing and variant calling using standard bioinformatics tools for analysing COVID-19 viral sequencing data (ERR5743893) against the SARS-CoV-2 reference genome (MN908947).
-* Tools used: **FastQC, BWA, SAM and Freebayes**
+#### Highlights
 
-### 🧬 Genomic Analysis of ADPKD (Autosomal Dominant Polycystic Kidney Disease)
+Quality control, Read trimming, Genome alignment, BAM processing, Variant calling, Variant filtration, Functional annotation, Clinical interpretation and Report generation.
 
-* Processed WES data and performed variant analysis
-* Focused on **PKD1, PKD2** and related genes
-* Tools used: **FastQC, BWA, SAM, Freebayes, BCF and GATK**
+#### Tools
 
-### 🌿 Plant Genomics Analysis of *Coptis chinensis*
+FastQC • Fastp • BWA-MEM • SAMtools • GATK • BCFtools • Ensembl VEP 
 
-* Performed **draft de novo genome assembly** using NGS reads followed by ORF prediction and gene calling
-* Tools used for assembly: **FastQC, Fastp, Seqtk, SPAdes, QUAST and EMBOSS getorf**
-* Functional annotation and pathway analysis using **eggNOG in Galaxy**
+### 🧬 RNA-Seq Analysis of Breast Cancer
 
-### 🧠 Alzheimer’s Disease – Structural Bioinformatics
+Performed transcriptomic analysis to identify differentially expressed genes associated with breast cancer.
 
-* Retrieved Alzheimer’s-related protein sequences
-* Built 3D models using **SWISS-MODEL**
-* Structure validation using **Ramachandran plots** and **Verify3D**
+#### Highlights
 
-### 🍌 Effect of Plant Growth Regulators in Banana Tissue Culture
+Quality assessment, Alignment, Read counting, Differential expression analysis and Visualization
 
-* Studied effects of **Meta-Topolin and BAP** on organogenesis
-* Conducted wet-lab experiments on **Grand Naine banana**
+#### Tools
+
+FastQC • HISAT2 • SAMtools • featureCounts • DESeq2 • R
+
+### 🌿 Draft Genome Assembly of Coptis chinensis
+
+Performed de novo genome assembly and functional annotation using NGS sequencing data.
+
+#### Highlights
+
+Quality filtering, Genome assembly, Assembly evaluation, ORF prediction, Functional annotation and GO & KEGG pathway analysis
+
+#### Tools
+
+FastQC • Fastp • Seqtk • SPAdes • QUAST • EMBOSS • eggNOG Mapper
+
+### 🧠 Structural Bioinformatics of Alzheimer's Disease Proteins
+
+Analyzed Alzheimer's disease-associated proteins through comparative structural bioinformatics.
+
+#### Highlights
+
+Protein sequence retrieval, Homology modelling, Structure validation and Structural comparison in ChimeraX
+
+#### Tools
+
+SWISS-MODEL • Verify3D • Ramachandran Plot • ChimeraX
+
+### 🦠 SARS-CoV-2 Viral Genomics Pipeline
+
+Developed a viral sequencing workflow for SARS-CoV-2 variant analysis.
+
+#### Workflow
+
+Quality Control → Alignment → BAM Processing → Variant Calling
+
+#### Tools
+
+FastQC • BWA • SAMtools • FreeBayes
+
+### 🧬 Python for Bioinformatics
+
+Developed multiple Python programs focused on bioinformatics applications including:
+
+- DNA/RNA sequence analysis
+- FASTA parsing
+- GC content calculation
+- Reverse complement generation
+- Motif finding
+- Sequence statistics
+- File handling
+- Data visualization using Matplotlib
 
 ---
 
 ## 📜 Certifications
 
-* Advanced Diploma in Bioinformatics
-* Diploma in MS Office
-* International Conclave – BIOFLAIR
-* Plant Tissue Culture
+- Advanced Diploma in Bioinformatics
+- Plant Tissue Culture
+- BIOFLAIR International Conclave
+- Diploma in Microsoft Office
 
 ---
 
-## 📚 Courses
+## 📚 Additional Learning
 
-* Basics of Molecular Genetics
-* Understanding Molecular Biology
-* Introduction to Forensic Science
-* Industrial Biotechnology
-
----
-
-## 🌍 Languages
-
-* **Tamil** – Native/Bilingual
-* **English** – Proficient
+- Linux for Bioinformatics
+- Git & GitHub
+- Python for Bioinformatics
+- SQL (Learning)
+- Docker Fundamentals
+- Basics of Cloud Computing
+- AI/ML in Bioinformatics
 
 ---
 
+# 🌍 Languages
+
+- **Tamil** – Native
+- **English** – Professional Working Proficiency
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** www.linkedin.com/in/sathya-viswanathan-b169b0245
+- **GitHub:** https://github.com/sathyaviswanath
+- **Email:** sathyaviswanth2782@gmail.com
+
+---
+
+⭐ *Thank you for visiting my portfolio! Feel free to explore my repositories and connect with me.*
